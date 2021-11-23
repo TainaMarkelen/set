@@ -10,7 +10,7 @@ print(nomes)
 set_vazio = set()
 print(set_vazio)
 
-# adcionando algo
+# adicionando algo
 animais.add("gato")
 print(animais)
 
