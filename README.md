@@ -1,3 +1,3 @@
 # set
 
-Anotações sobre funções básicas do Set.
+Annotations about basic functions of Set.
